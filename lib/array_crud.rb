@@ -7,9 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  arr = ['hiya']
-  
-  arr.push('bubyyyee!')
+ 
   arr << 'okayyy'
   
 end
